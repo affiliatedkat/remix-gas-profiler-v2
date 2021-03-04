@@ -1401,10 +1401,17 @@
     "@remixproject/plugin-api" "0.3.3"
     "@remixproject/plugin-utils" "0.3.3"
 
-"@remixproject/plugin-utils@0.3.3", "@remixproject/plugin-utils@^0.3.3":
+"@remixproject/plugin-utils@0.3.3":
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/@remixproject/plugin-utils/-/plugin-utils-0.3.3.tgz#481267730b4d21ff7ec4040fa20239dd60a1af93"
   integrity sha512-w1WCdS7bDmbaY83ybIjHzFW9TlQUV2Rt6Fw8hXGnT29ontD6mKoBWhoEPYzasMEHG47lmNzDjRToVPhQh54Q+w==
+  dependencies:
+    tslib "2.0.1"
+
+"@remixproject/plugin-utils@^0.3.4":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@remixproject/plugin-utils/-/plugin-utils-0.3.5.tgz#ec558ec240b8a4e026263e242508183842bb3e1d"
+  integrity sha512-QmWPJoMIVXO1/PTaEl07oy9//ZXr0KRVaDyJ7hVj8IgG/o/8xHHHhdDlB2fJ9pzUk7B0AOCkeL8xIqNBsM8VOA==
   dependencies:
     tslib "2.0.1"
 
