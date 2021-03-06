@@ -4,7 +4,7 @@
   "description": "Remix Gas Profiler",
   "author": "MachinaLabs",
   "dependencies": {
-    "@remixproject/plugin": "^0.3.3",
+    "@remixproject/plugin": "^0.3.8",
     "@remixproject/plugin-api": "^0.3.8",
     "@remixproject/plugin-iframe": "^0.3.3",
     "@remixproject/plugin-utils": "^0.3.4",
